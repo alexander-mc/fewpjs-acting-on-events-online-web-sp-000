@@ -26,7 +26,6 @@ describe('moveDodgerRight', () => {
     left = parseInt(left)
 
     moveDodgerRight()
-
     var newPosition = dodger.style.left
     newPosition = parseInt(newPosition)
 
